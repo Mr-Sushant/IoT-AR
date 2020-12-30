@@ -3,7 +3,7 @@ Minor project made using IoT and AR. Aim is to provide real time data of weather
 
 ## Table of Contents :
 
-* [Technologies used]()
-* [IoT]()
-* [Unity & Augmented Reality]()
-* [Flutter]()
+* [Technologies used](Documentation/Tech-Stack-used.md)
+* [IoT](Documentation/IoT-documentation.md)
+* [Unity & Augmented Reality](Documentation/Unity-documentation)
+* [Flutter](Documentation/Flutter-documentation)
