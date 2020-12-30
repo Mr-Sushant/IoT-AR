@@ -8,9 +8,10 @@ For IoT we will use the **Arduino IDE.**
 ## How will we achieve all this 
 1. First we have to learn in depth about the **NodeMCU ESP8266 Wifi Module.**[CLick here to learn](https://www.youtube.com/watch?v=5YoyF1-Ff1w)
 2. Then we should have knowledge of all the sensors we are using.
-    i. DHT-11 HUmidity and Temperature sensor.[Click here to learn](https://www.youtube.com/watch?v=reYa_4rh0-w)
-    ii. Soil moisture sensor.[Click here to learn](https://www.youtube.com/watch?v=K_jfj4Krj7M) and [Click here to learn](https://www.youtube.com/watch?v=3beP0ANNUjQ)
-    iii. Rain drop sensor.[Click here to learn](https://www.youtube.com/watch?v=vUxfutrcNUQ) and [Click here to learn](https://www.youtube.com/watch?v=qtqtMLmRqZI)
+3. DHT-11 HUmidity and Temperature sensor.[Click here to learn](https://www.youtube.com/watch?v=reYa_4rh0-w)
+4. Soil moisture sensor.[Click here to learn](https://www.youtube.com/watch?v=K_jfj4Krj7M) and [Click here to learn](https://www.youtube.com/watch?v=3beP0ANNUjQ)
+5. Rain drop sensor.[Click here to learn](https://www.youtube.com/watch?v=vUxfutrcNUQ) and [Click here to learn](https://www.youtube.com/watch?v=qtqtMLmRqZI)
+    
 
 
 **THATS IT. WE DONT HAVE TO DO ANYTHING EXTRA. WE ONLY NEED TO SEND THE DATA TO FIREBASE CONTINUOUSLY.**
